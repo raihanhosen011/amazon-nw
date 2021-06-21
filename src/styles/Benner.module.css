@@ -1,0 +1,6 @@
+.layer {
+  top: 0;
+  bottom: 0;
+  background: linear-gradient(0deg, #e7eff5, transparent);
+  z-index: 1;
+}
