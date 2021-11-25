@@ -1,6 +1,6 @@
 # Amazon clone
 
-<img src='' />
+<img src='https://github.com/raihanhosen011/amazon-nw/blob/main/project%20(2)%20with%20(Next.js).png?raw=true' />
 
 First, run the development server:
 
